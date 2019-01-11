@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "RnChat",
+    "name": "RnChat - GraphQL",
     "slug": "RnChat",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -14,7 +14,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#477E7B"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "React Native chat app using GraphQL and Apollo client",
+    "githubUrl": "https://github.com/gabrielrangel95/RN-GraphQL-Chat"
   }
 }
